@@ -23,7 +23,7 @@ Diverse voices make teams stronger and decisions better. I want everyone to feel
 
 ## How I Communicate
 
-- I prefer async communication, usually via Slack. A very close second is conversation either in person if possible or over Zoom. Email is 
+- I prefer async communication, usually via Slack. A very close second is conversation either in person if possible or over Zoom.
 - I respond faster to clear, action-oriented messages.
 - I strive to respond the same day. If something is urgent, say so directly and I will prioritize it.
 - I appreciate transparency. Tell me what's working and what is not. No need to wait for a 1:1.
